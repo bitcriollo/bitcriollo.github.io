@@ -1,0 +1,41 @@
+I"	<hr />
+
+<p>layout: post
+title: ‘Presentacion’
+subtitle: ‘De que se trata todo esto?’
+background: ‘/img/presentacion/01.jpg’</p>
+
+<hr />
+
+<h1 id="consideraciones-importantes">Consideraciones importantes!</h1>
+
+<p>Hola! Me llamo Alan, si sos una persona pragmática a la cual le gusta ir bien al grano directo en todo, saltéate este post, listo lo dije. Ahora, si te queres relajar un rato conmigo y meterte en esta intro de a poco antes de ir al grano a continuación, mis palabras.</p>
+
+<h2 id="técnica-feynman">Técnica Feynman</h2>
+
+<p>Según Richard Feynman, uno de los físicos mas grandes de nuestra época, cualquier conocimiento, para ser comprendido realmente, se debe poder transmitir utilizando ideas concisas y un lenguaje sencillo. Este es mi intento para explicar cosas que ya conozco o que voy aprendiendo en el camino. Es una manera de dejarlas plasmadas intentando aclarar muchas dudas que pueden ir surgiendo…<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg" alt="Richard Feynman en Fermilab" /></p>
+
+<blockquote>
+  <p>Richard Feynman en Fermilab</p>
+</blockquote>
+
+<p>La técnica de Feynman consta de los siguientes pasos.</p>
+
+<ol>
+  <li>Identificar el tema</li>
+  <li>Enseñárselo a un niño</li>
+  <li>Identificar tus brechas de conocimiento</li>
+  <li>Organizar + Simplificar + Contar una historia</li>
+</ol>
+
+<p>Estas entradas de blog se encuentran (idealmente) en el cuarto paso, yo ya identifique el tema, intente enseñarlo, identifique mis errores y trate de organizar el conocimiento de manera que se pueda transmitir fácilmente</p>
+
+<h2 id="de-que-vamos-a-hablar">De que vamos a hablar?</h2>
+
+<p>Principalmente de Linux, Software Libre, programación y ciencia en general. Actualmente trabajo de programador full stack al mismo tiempo que estudio ingeniería electrónica. Por lo tanto, se imaginaran por donde van los tiros. Primeramente voy a intentar hacer una serie de linux, mientras aprendo con ustedes, para dejar por escrito lo que voy aprendiendo.</p>
+
+<h2 id="hablamos">Hablamos?</h2>
+
+<p>Me podes escribir a alanshalem@gmail.com, o por linkedin https://www.linkedin.com/in/alanshalem/
+Si te gusto lo que escribo me podes donar un cafecito: https://cafecito.app/alanshalem</p>
+:ET
